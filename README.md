@@ -9,4 +9,3 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustMilan)](https://github.com/anuraghazra/github-readme-stats)
 ![Milan's github stats](https://github-readme-stats.vercel.app/api?username=JustMilan&show_icons=true&count_private=true)
 
-<div class="tenor-gif-embed" data-postid="5159848" data-share-method="host" data-width="100%" data-aspect-ratio="1.3375796178343948"><a href="https://tenor.com/view/michael-jackson-eating-popcorn-michael-jackson-gif-5159848">Michael Jackson GIF</a> from <a href="https://tenor.com/search/michael-gifs">Michael GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
