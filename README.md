@@ -6,9 +6,5 @@
 - 📫 How to reach me: 📬milandol321@gmail.com, 📬milan@dol-it.nl, 📱+31643795335 
 - ⚡ Fun fact: realized a discord server together with @JortWillemsen so freshman and sophomore students could receive all the online education they needed.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JustMilan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JustMilan&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true)
