@@ -7,4 +7,4 @@
 - ⚡ Fun fact: realized a discord server together with @JortWillemsen so freshman and sophomore students could receive all the online education they needed.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustMilan)](https://github.com/anuraghazra/github-readme-stats)
-![Milan's github stats](https://github-readme-stats.vercel.app/api?username=JustMilan&count_private=true&show_icons=true)
+![Milan's github stats](https://github-readme-stats.vercel.app/api?username=JustMilan&show_icons=true&count_private=true)
