@@ -5,3 +5,7 @@
 - 💬 Ask me about Hogeschool Utrecht.
 - 📫 How to reach me: 📬milandol321@gmail.com, 📬milan@dol-it.nl, 📱+31643795335 
 - ⚡ Fun fact: realized a discord server together with @JortWillemsen so freshman and sophomore students could receive all the online education they needed.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
