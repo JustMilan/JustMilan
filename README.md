@@ -8,5 +8,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustMilan)](https://github.com/anuraghazra/github-readme-stats)
 ![Milan's github stats](https://github-readme-stats.vercel.app/api?username=JustMilan&show_icons=true&count_private=true)
+[![Milan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustMilan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![image](https://github.com/JustMilan/JustMilan/blob/master/tenor.gif)
