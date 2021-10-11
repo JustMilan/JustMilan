@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Milan, a 20 year old ICT student.
 
 - 🔭 I’m currently working on an android app which modifies google maps with custom pins and saving options for users.
-- 🌱 I’m currently learning Java, Spring Boot, Angular, Typescript, Kotlin.
+- 🌱 I’m currently learning Java, Spring, Angular, Typescript, Kotlin.
 - 💬 Ask me about Hogeschool Utrecht.
 - 📫 How to reach me: 📬milandol321@gmail.com, 📬milan@dol-it.nl, 📱+31643795335 
 - ⚡ Fun fact: realized a discord server together with [@JortWillemsen](https://github.com/JortWillemsen) so freshman and sophomore students could receive all the online education they needed.
