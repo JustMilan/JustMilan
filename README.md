@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Milan, a 20 year old ICT student.
+### Hi there 👋 I'm Milan, a 21 year old ICT student.
 
 - 🔭 I’m currently working on an android app which modifies google maps with custom pins and saving options for users.
 - 🌱 I’m currently learning Java, Spring, Angular, Typescript, Kotlin.
